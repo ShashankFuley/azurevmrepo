@@ -8,6 +8,7 @@ public class AzurevmApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AzurevmApplication.class, args);
+		//comment for feature 102
 	}
 
 }
